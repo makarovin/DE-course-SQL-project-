@@ -538,7 +538,7 @@ def included_tables():
         sqlite_connection.close()
         print("Соединение с SQLite закрыто")
 
-included_tables()
+
 # DDL
 # init_data_clients()
 # add_scd2_rows_to_init('cards', '2021-03-01 00:00:00', '2021-03-01 23:59:59')

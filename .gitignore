@@ -1,0 +1,14 @@
+.idea
+env
+pythonyst
+store
+venv
+app.py
+client_data.csv
+ddl_dml.sql
+example.py
+homework_6_Ivan_Makarov.py
+nst-est2019-alldata.csv
+sber.db
+sber_1.db
+us-states.csv
