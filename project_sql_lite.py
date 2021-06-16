@@ -554,6 +554,7 @@ def included_tables():
 # create_tables_blacklist('passport_blacklist_02032021.xlsx', '2021-03-02 00:00:00', '2021-03-02 23:59:59')
 # create_tables_blacklist('passport_blacklist_03032021.xlsx', '2021-03-03 00:00:00', '2021-03-03 23:59:59')
 
+
 # DML. Решил не создавать представлений, просто вывожу витрину в консоль.
 # 1A task. Разбил первую задачу на 2 подзадачи.
 # Мошенник Пначин Я.
